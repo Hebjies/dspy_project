@@ -4,6 +4,7 @@ So instead of doing a basic off-the-shelf take home which is probably now easily
 
 Vs code configuration:
 
+```json
 {
     "name": "Python: local_chat",
     "type": "python",
@@ -14,3 +15,4 @@ Vs code configuration:
         "TOGETHER_API_KEY": ${api key here. You can make a free account at together.ai to get an api key},
     }
 },
+```
